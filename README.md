@@ -1,5 +1,6 @@
 # Proyecto SQL: Grupo LVMH
-# **Módulo SQL - Máster en Data Science e IA **
+
+Módulo SQL - Máster en Data Science e IA 
 
 ---
 
