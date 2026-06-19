@@ -1,4 +1,4 @@
-# Proyecto SQL — Grupo LVMH
+# Proyecto SQL: Grupo LVMH
 **Módulo SQL · Máster en Data Science e IA · Evolve**
 
 ---
@@ -92,4 +92,4 @@ El proyecto se construye desde cero automáticamente con `DROP DATABASE IF EXIST
 
 ---
 
-*Motor: MySQL 8 · IDE: MySQL Workbench · Datos: ficticios generados manualmente*
+
